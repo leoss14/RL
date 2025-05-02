@@ -1,0 +1,11 @@
+Thorsten Beck, Aslı Demirgüç-Kunt, Luc Laeven, Vojislav Maksimovic,
+The determinants of financing obstacles,
+Journal of International Money and Finance,
+Volume 25, Issue 6,
+2006,
+Pages 932-952,
+ISSN 0261-5606,
+https://doi.org/10.1016/j.jimonfin.2006.07.005.
+(https://www.sciencedirect.com/science/article/pii/S0261560606000520)
+Abstract: We use survey data on a sample of over 10,000 firms from 80 countries to assess (i) how successful a priori classifications are in distinguishing between financially constrained and unconstrained firms, and (ii) more generally, the determinants of financing obstacles of firms. We find that older, larger, and foreign-owned firms report less financing obstacles. Our findings thus confirm the usefulness of size, age and ownership as a priori classifications of financing constraints, while they shed doubts on other classifications used in the literature. Our results also suggest that institutional development is the most important country characteristic explaining cross-country variation in firms' financing obstacles.
+Keywords: Financing constraints; Investment models
